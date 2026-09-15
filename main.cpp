@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  Project 1
-//
-//  Created by Christina Rodriguez on 4/21/25.
-//
-
 #include <iostream>
 #include <random>
 #include <string>
