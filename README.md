@@ -1,1 +1,1 @@
-//Contains labs/projects from CS116.
+Contains labs/projects from CS116.
