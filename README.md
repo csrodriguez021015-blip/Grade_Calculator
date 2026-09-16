@@ -1,2 +1,1 @@
-# Grade_Calculator
-Grade calculator in c++.
+//Contains labs/projects from CS116.
