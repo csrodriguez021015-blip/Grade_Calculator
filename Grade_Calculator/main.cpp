@@ -30,7 +30,7 @@ double calculateAverage(std::string name, int count, int totalGrade, float extra
     double accumulator;
     float max;
     int i;//loop iteration number
-    result =0;
+    result = 0;
     max = totalGrade *(1+ (extraC/100));
   
     for (i=1, accumulator=0;i<count+1; i+=1)
