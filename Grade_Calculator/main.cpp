@@ -62,7 +62,7 @@ int main(void) {
   // your program starts here
     std::cout<<"Hello, the purpose of this program is to calculate your grade precentage!\n";
   
-  //calling functions to figure out what the values aught to be
+  //calling functions to figure out what the values ought to be
     midtermAverage = calculateAverage("Midterm",2,40,10);
     quizesAverage = calculateAverage("Quiz", 6, 10, 0);
     projectsAverage = calculateAverage("Project", 6, 10, 0);
